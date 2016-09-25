@@ -1,2 +1,3 @@
 Flask
 sphinxcontrib.httpdomain
+-e .[docs,tests]

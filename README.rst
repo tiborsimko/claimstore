@@ -55,4 +55,4 @@ Using command line
 Documentation
 -------------
 
-- `claimstore.readthedocs.org <http://claimstore.readthedocs.org/>`_
+- `claimstore.readthedocs.io <http://claimstore.readthedocs.io/>`_

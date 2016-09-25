@@ -17,7 +17,7 @@ Flask ecosystem:
   <https://github.com/inveniosoftware/flask-notifications>`_ for
   optional alerts
 - `OAuth <http://oauth.net/>`_ for authorisation needs
-- `SQLAlchemy <http://sqlalchemy.readthedocs.org/>`_ for DB abstraction
+- `SQLAlchemy <http://sqlalchemy.readthedocs.io/>`_ for DB abstraction
 - `JSON Schema <http://json-schema.org/>`_ for JSON object description
 - `PostgreSQL <http://www.postgresql.org/>`_ for DB persistence and
   JSON search
